@@ -68,7 +68,7 @@ wget https://tomcat.apache.org/tomcat-7.0-doc/appdev/sample/sample.war
 ```
 ```
 
-wget https://updates.jenkins.io/download/war/2.416/jenkins.war
+wget https://updates.jenkins.io/download/war/2.445/jenkins.war
 ```
 
 # Advanced steps
